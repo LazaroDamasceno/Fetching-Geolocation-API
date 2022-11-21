@@ -1,4 +1,4 @@
-# Fetching Weather API
+# Fetching Geolocation API
 
 ![mygif](https://user-images.githubusercontent.com/62726118/202961294-d68c9b0e-ea31-4fa2-a950-78b53e6ca66b.gif)
 
